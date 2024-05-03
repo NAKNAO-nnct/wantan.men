@@ -1,8 +1,3 @@
----
-title: ワンタンメン
-canonical_url: https://wantan.men/
----
-
 # [ワンタン麺](https://wantan.men)
 
 ![画像](./rdesign_5840.png)
